@@ -45,12 +45,8 @@ I am passionate about **data analysis, data visualization, and uncovering insigh
 
 
 
-
-💡 **[1. Titanic Dataset - Exploratory Data Analysis](https://github.com/Qazi-Hassan/Titanic_EDA_Project)**  
-🔹 Performed **data cleaning & visualization** to find survival rates & patterns  
-
-💡 **[2. Sales Data Analysis (SQL + Power BI)](https://github.com/Qazi-Hassan/Sales_Analysis_SQL)**  
-🔹 Used **SQL queries & Power BI** to analyze revenue trends  
+💡 **[E-commerce Sales Analysis by SQL](https://github.com/Qazi-Hassan/E-commerce_Sales_Analysis-by-SQL)**  
+🔹 Used **SQL querie** to analyze revenue trends and extract meaningful insights 
 
 💡 **[3. YouTube Trending Videos Analysis](https://github.com/Qazi-Hassan/YouTube_Trending_Analysis)**  
 🔹 Identified **top-performing video trends using Python & SQL**  
