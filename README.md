@@ -41,15 +41,10 @@ I am passionate about **data analysis, data visualization, and uncovering insigh
 - Created visual insights on title length, tags, categories, views
 
 
-
-
-
-
 💡 **[E-commerce Sales Analysis by SQL](https://github.com/Qazi-Hassan/E-commerce_Sales_Analysis-by-SQL)**  
 🔹 Used **SQL querie** to analyze revenue trends and extract meaningful insights 
 
-💡 **[3. YouTube Trending Videos Analysis](https://github.com/Qazi-Hassan/YouTube_Trending_Analysis)**  
-🔹 Identified **top-performing video trends using Python & SQL**  
+
 
 ---
 
