@@ -27,10 +27,10 @@ I am passionate about **data analysis, data visualization, and uncovering insigh
 ## 📌 Featured Projects  
 ## 🔍 Featured Projects
 
-🛒 **[Sales Data Analysis with SQL & Power BI](https://github.com/Qazi-Hassan/Sales_Analysis_Project)**
+🛒 **[Shopping Behavior Analysis with SQL ](https://github.com/Qazi-Hassan/Shopping_Behavior_Analysis-by-SQL)**
 - Cleaned and transformed raw sales data
 - Ran SQL queries to extract revenue and performance trends
-- Visualized key insights using Power BI dashboard
+- extracted meaningful insights
 
 🚢 **[Titanic Dataset EDA with Python](https://github.com/Qazi-Hassan/Titanic_EDA_Project)**
 - Performed cleaning, imputation, and exploratory visualizations
