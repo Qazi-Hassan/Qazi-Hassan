@@ -35,9 +35,10 @@ I am passionate about **data analysis, data visualization, and uncovering insigh
 - Compiled a detailed PDF report highlighting actionable insights and recommendations for business optimization.
 
 
-🚢 **[Titanic Dataset EDA with Python](https://github.com/Qazi-Hassan/Titanic_EDA_Project)**
+🚢 **[Retail-Order-Analysis](https://github.com/Qazi-Hassan/Retail-Orders-Analysis)**
 - Performed cleaning, imputation, and exploratory visualizations
 - Analyzed survival patterns based on gender, age, class
+- Visualized key insights using Matplotlib and Seaborn charts
 
 📊 **[YouTube Trending Video Analysis](https://github.com/Qazi-Hassan/YouTube_Trending_Analysis)**
 - Used Python and Pandas to analyze YouTube trending dataset
