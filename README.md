@@ -40,7 +40,7 @@ I am passionate about **data analysis, data visualization, and uncovering insigh
 - Analyzed survival patterns based on gender, age, class
 - Visualized key insights using Matplotlib and Seaborn charts
 
-📊 ** Netflix-Analysis](https://github.com/Qazi-Hassan/Netflix-Analysis))**
+📊 ** [Netflix-Analysis](https://github.com/Qazi-Hassan/Netflix-Analysis)**
 - Performed Exploratory Data Analysis (EDA) on Netflix dataset containing information about movies and TV shows.
 - Analyzed various attributes such as genre, release year, country, duration, and ratings.
 - Visualized data trends and insights using graphical plots for better understanding.
