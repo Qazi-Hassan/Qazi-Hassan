@@ -27,10 +27,13 @@ I am passionate about **data analysis, data visualization, and uncovering insigh
 ## 📌 Featured Projects  
 ## 🔍 Featured Projects
 
-🛒 **[Shopping Behavior Analysis with SQL ](https://github.com/Qazi-Hassan/Shopping_Behavior_Analysis-by-SQL)**
-- Cleaned and transformed raw sales data
-- Ran SQL queries to extract revenue and performance trends
-- extracted meaningful insights
+🛒 **[Superstore-Sales-Analysis]( https://github.com/Qazi-Hassan/Superstore-Sales-Analysis)**
+- Conducted a comprehensive exploratory data analysis (EDA) on the Superstore sales dataset.
+- Cleaned and preprocessed data for accurate analysis and visualization.
+- Analyzed sales and profit trends across different product categories, sub-categories, regions, and customer segments.
+- Visualized key business insights using Matplotlib and Seaborn charts.
+- Compiled a detailed PDF report highlighting actionable insights and recommendations for business optimization.
+
 
 🚢 **[Titanic Dataset EDA with Python](https://github.com/Qazi-Hassan/Titanic_EDA_Project)**
 - Performed cleaning, imputation, and exploratory visualizations
