@@ -40,13 +40,12 @@ I am passionate about **data analysis, data visualization, and uncovering insigh
 - Analyzed survival patterns based on gender, age, class
 - Visualized key insights using Matplotlib and Seaborn charts
 
-📊 **[YouTube Trending Video Analysis](https://github.com/Qazi-Hassan/YouTube_Trending_Analysis)**
-- Used Python and Pandas to analyze YouTube trending dataset
-- Created visual insights on title length, tags, categories, views
+📊 ** Netflix-Analysis](https://github.com/Qazi-Hassan/Netflix-Analysis))**
+- Performed Exploratory Data Analysis (EDA) on Netflix dataset containing information about movies and TV shows.
+- Analyzed various attributes such as genre, release year, country, duration, and ratings.
+- Visualized data trends and insights using graphical plots for better understanding.
+- The project can be expanded further with additional datasets or integrated into recommendation systems.
 
-
-💡 **[E-commerce Sales Analysis by SQL](https://github.com/Qazi-Hassan/E-commerce_Sales_Analysis-by-SQL)**  
-🔹 Used **SQL querie** to analyze revenue trends and extract meaningful insights 
 
 
 
