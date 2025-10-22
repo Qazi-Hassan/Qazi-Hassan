@@ -61,6 +61,6 @@ I am passionate about **data analysis, data visualization, and uncovering insigh
 
 ## 📫 Let's Connect!  
 📧 **Email:** [a927hassan@gmail.com]  
-🔗 **LinkedIn:** [[Your LinkedIn Profile Here](https://www.linkedin.com/in/qazi-ali-hassan/)]  
-📊 **Kaggle:** [[Your Kaggle Profile Here](https://www.kaggle.com/alihassan902)]  
-📂 **Portfolio:** [Your Portfolio (If Available)]  
+🔗 **LinkedIn:** [LinkedIn Profile ](https://www.linkedin.com/in/qazi-ali-hassan/)
+📊 **Kaggle:** [ Kaggle Profile ](https://www.kaggle.com/alihassan902)
+📂 **Portfolio:** [Portfolio]  
